@@ -1,4 +1,4 @@
-#Unsupervised Learning
+# Unsupervised Learning
 
 Clustering cryptocurrencies with K-means and optimizing clusters with principal component analysis (PCA). 
 
